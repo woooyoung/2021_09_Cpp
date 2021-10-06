@@ -27,12 +27,21 @@
     <ClCompile Include="소스3.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="소스4.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="sub.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="헤더.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="헤더1.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="헤더2.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
